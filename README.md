@@ -7,3 +7,9 @@
     <li>Basics of Recursion</li>
     <li>Recursion</li>
 </ul>
+
+<h2>Linear Data Structures</h2>
+<ul>Arrays
+    <li></li>
+
+</ul>
