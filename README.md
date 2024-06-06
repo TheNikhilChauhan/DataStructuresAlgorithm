@@ -13,7 +13,10 @@
     <ul>01.Basic Arrays
         <li>01.Arrays</li>
         <li>02.Removing Elements</li>
-        <li></li>
+        <li>03.MinMax</li>
+        <li>04.ReverseArray</li>
+        <li>05.SingleNumber</li>
+        <li>06.TwoSum</li>
         <li></li>
     </ul>
 
