@@ -9,7 +9,12 @@
 </ul>
 
 <h2>Linear Data Structures</h2>
-<ul>Arrays
-    <li></li>
+<ol>Arrays
+    <ul>01.Basic Arrays
+        <li>01.Arrays</li>
+        <li>02.Removing Elements</li>
+        <li></li>
+        <li></li>
+    </ul>
 
-</ul>
+</ol>
