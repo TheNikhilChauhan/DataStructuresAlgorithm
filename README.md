@@ -17,6 +17,9 @@
         <li>04.ReverseArray</li>
         <li>05.SingleNumber</li>
         <li>06.TwoSum</li>
+        <li>07.Sort Colors</li>
+        <li></li>
+        <li></li>
         <li></li>
     </ul>
 
