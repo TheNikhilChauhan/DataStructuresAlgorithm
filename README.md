@@ -32,10 +32,10 @@
         <li>06.Unique strings</li>
     </ul>
     <ul>03.Higher Order Function
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>01.Map function</li>
+        <li>02.Filter function</li>
+        <li>03.Sort function</li>
+        <li>04.Reduce function</li>
         <li></li>
     </ul>
 </ol>
