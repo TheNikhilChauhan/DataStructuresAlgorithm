@@ -42,6 +42,8 @@
     <ul>04.OOPs
         <li>01.Class And Objects</li>
         <li>02.'new' keyword and Constructor</li>
+        <li>03.Function Constructor</li>
+        <li>04.Private Variable</li>
         <li></li>
         <li></li>
     </ul>
