@@ -36,6 +36,13 @@
         <li>02.Filter function</li>
         <li>03.Sort function</li>
         <li>04.Reduce function</li>
+        <li>05.Callbacks</li>
+        <li>06.Problems with Callback</li>
+    </ul>
+    <ul>04.OOPs
+        <li>01.Class And Objects</li>
+        <li>02.'new' keyword and Constructor</li>
+        <li></li>
         <li></li>
     </ul>
 </ol>
