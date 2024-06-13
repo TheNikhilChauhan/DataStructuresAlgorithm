@@ -56,4 +56,7 @@
     <li>01.Create and Add Linked List At Start</li>
     <li>02.ImplementDisplay in LL</li>
     <li>03.Add Tail</li>
+    <li>04.Remove at Head</li>
+    <li>05.Remove at Tail</li>
+    <li></li>
 </ul>
