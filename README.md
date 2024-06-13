@@ -39,7 +39,10 @@
         <li>05.Callbacks</li>
         <li>06.Problems with Callback</li>
     </ul>
-    <ul>04.OOPs
+</ol>
+
+<h2>04.OOPs</h2>
+    <ul>
         <li>01.Class And Objects</li>
         <li>02.'new' keyword and Constructor</li>
         <li>03.Function Constructor</li>
@@ -47,4 +50,10 @@
         <li></li>
         <li></li>
     </ul>
-</ol>
+
+<h2>Linked List</h2>
+<ul>
+    <li>01.Create and Add Linked List At Start</li>
+    <li>02.ImplementDisplay in LL</li>
+    <li>03.Add Tail</li>
+</ul>
