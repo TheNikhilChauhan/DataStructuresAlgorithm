@@ -58,5 +58,9 @@
     <li>03.Add Tail</li>
     <li>04.Remove at Head</li>
     <li>05.Remove at Tail</li>
+    <li>06.Add at Index</li>
+    <li>07.Remove at Index</li>
+    <li>08.Doubly Linked List</li>
+    <li></li>
     <li></li>
 </ul>
