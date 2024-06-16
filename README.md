@@ -61,6 +61,8 @@
     <li>06.Add at Index</li>
     <li>07.Remove at Index</li>
     <li>08.Doubly Linked List</li>
-    <li></li>
+    <li>09. LL: Middle of the linked list</li>
+    <li>10. Problem 1 using Iteration</li>
+    <li>11. Problem 1 using Recursion</li>
     <li></li>
 </ul>
