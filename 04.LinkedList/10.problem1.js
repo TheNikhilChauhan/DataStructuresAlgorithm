@@ -1,4 +1,4 @@
-//206. Reverse Linked List
+//206. Reverse Linked List using pointers
 
 function createNode(data) {
   return {

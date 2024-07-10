@@ -64,5 +64,6 @@
     <li>09. LL: Middle of the linked list</li>
     <li>10. Problem 1 using Iteration</li>
     <li>11. Problem 1 using Recursion</li>
+    <li>12. Problem 1 using Data Reversal Recursive</li>
     <li></li>
 </ul>

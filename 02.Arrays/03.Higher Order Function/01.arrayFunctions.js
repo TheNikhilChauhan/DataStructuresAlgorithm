@@ -34,7 +34,9 @@ console.log(resultEvenOdd);
 
 const newArr = [9, 8, 7, 6, 5];
 /*
- * if the function that we are passing in map takes two arguments then first argument will be accessing the actual value
+ * if the function that we are passing in map
+ * takes two arguments then first argument will
+ * be accessing the actual value
  * second argument will be accessing index of that value
  */
 

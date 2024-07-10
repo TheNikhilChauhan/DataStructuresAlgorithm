@@ -1,4 +1,4 @@
-//206. Reverse Linked List
+//206. Reverse Linked List using Recursion
 
 function createNode(data) {
   return {
@@ -29,8 +29,22 @@ function addAtTail(head, data) {
   return head;
 }
 
+function f(current) {
+  if (current.next === null) {
+    return current;
+  }
+  let newHead = f(current.next);
+  current.next.next = current;
+  current.next = null;
+  return newHead;
+}
+
 //data reverse
-function reverseList(head) {}
+function reverseList(head) {
+  if (head === null) return null;
+  head = f(head);
+  return head;
+}
 
 //pointer reverse
 
@@ -57,5 +71,5 @@ head = addAtTail(head, 43);
 
 display(head);
 
-head = reverseLL(head);
+head = reverseList(head);
 display(head);
