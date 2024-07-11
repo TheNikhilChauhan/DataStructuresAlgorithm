@@ -1,3 +1,5 @@
+// add at head and tail, remove at head and tail
+
 class node {
   constructor(data) {
     this.data = data;
