@@ -66,5 +66,6 @@
     <li>11. Problem 1 using Recursion</li>
     <li>12. Problem 1 using Data Reversal Recursive</li>
     <li>13. Creating LL in a modern way</li>
+    <li>14. Creating LL in a modern way 2</li>
     <li></li>
 </ul>
