@@ -68,5 +68,7 @@
     <li>13. Creating LL in a modern way</li>
     <li>14. Creating LL in a modern way 2</li>
     <li>15. Creating LL in a modern way 3</li>
+    <li>16. Swap pairs of linked list</li>
+    <li>17. Reverse node in K groups</li>
     <li></li>
 </ul>
