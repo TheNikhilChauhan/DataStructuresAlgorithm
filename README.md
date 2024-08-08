@@ -72,5 +72,6 @@
     <li>17. Reverse node in K groups</li>
     <li>18. Cyclic detection in Linked list</li>
     <li>19. Middle of the linked list</li>
+    <li>20. Detect and Remove loop in Linked list</li>
     <li></li>
 </ul>
