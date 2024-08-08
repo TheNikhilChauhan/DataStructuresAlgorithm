@@ -73,5 +73,5 @@
     <li>18. Cyclic detection in Linked list</li>
     <li>19. Middle of the linked list</li>
     <li>20. Detect and Remove loop in Linked list</li>
-    <li></li>
+    <li>21. Remove duplicates from sorted list</li>
 </ul>
