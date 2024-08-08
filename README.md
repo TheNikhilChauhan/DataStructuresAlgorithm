@@ -75,3 +75,10 @@
     <li>20. Detect and Remove loop in Linked list</li>
     <li>21. Remove duplicates from sorted list</li>
 </ul>
+
+<h2>Stack</h2>
+<ul>
+    <li>01. Creating a stack</li>
+    <li>02. Remove elements from top</li>
+    <li></li>
+</ul>
