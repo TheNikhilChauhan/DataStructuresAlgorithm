@@ -80,5 +80,7 @@
 <ul>
     <li>01. Creating a stack</li>
     <li>02. Remove elements from top</li>
+    <li>03. Peek in stack</li>
+    <li>04. Creating stack using linked list</li>
     <li></li>
 </ul>
