@@ -31,9 +31,9 @@ class TwoStacks {
   //pop an element from the first stack
   pop1() {
     if (this.top1 >= 0) {
+      this.top1--;
       const element = this.items[this.top1];
       this.items[this.top1] = null;
-      this.top1--;
       return element;
     } else {
       console.log("Stack underflow: Cannot pop from stack 1");
@@ -42,9 +42,9 @@ class TwoStacks {
 
   pop2() {
     if (this.pop2 < this.size) {
+      this.top2++;
       const element = this.items[this.top2];
       this.items[this.top2] = null;
-      this.top2++;
       return element;
     } else {
       console.log("Stack underflow: Cannot pop from stack 2");
@@ -59,13 +59,13 @@ class TwoStacks {
 
 const twoStacks = new TwoStacks(10);
 
-twoStacks.push1();
-twoStacks.push1();
-twoStacks.push1();
+twoStacks.push1(1);
+twoStacks.push1(2);
+twoStacks.push1(3);
 
-twoStacks.push2();
-twoStacks.push2();
-twoStacks.push2();
+twoStacks.push2(9);
+twoStacks.push2(8);
+twoStacks.push2(7);
 
 twoStacks.display();
 
