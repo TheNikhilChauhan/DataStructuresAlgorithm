@@ -49,9 +49,13 @@ class Queue {
     // console.log(this.items);
     return this.items;
   }
+  size() {
+    return this.items.length;
+  }
 
   display() {
-    console.log(this.items.join(", "));
+    // console.log(this.items.join(", "));
+    return this.items;
   }
 }
 
@@ -70,7 +74,10 @@ console.log("Front element in queue is: ", queue.front());
 queue.reverseQueue();
 
 queue.dequeue();
+queue.dequeue();
 
-queue.display();
+console.log(queue.display());
 
 console.log("Front element in queue is: ", queue.front());
+
+console.log(queue.size());
