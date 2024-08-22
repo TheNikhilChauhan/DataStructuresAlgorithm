@@ -86,3 +86,14 @@
     <li>06. Reverse String</li>
     <li></li>
 </ul>
+
+<h2>Queues</h2>
+<ul>
+    <li>01. Creating queue</li>
+    <li>02. Peek method in queue</li>
+    <li>03. Reverse a queue</li>
+    <li>04. Creating Queue using linked list for O(1) time complexity</li>
+    <li>05. Creating Queue using stacks</li>
+    <li>06. Priority Queue</li>
+    <li></li>
+</ul>
