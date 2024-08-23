@@ -86,7 +86,7 @@
     <li>06. Reverse String</li>
     <li>07. Valid Parentheses</li>
     <li>08. Insert an element at its bottom</li>
-    <li></li>
+    <li>09. Reverse stack using recursion</li>
     <li></li>
 </ul>
 
