@@ -87,6 +87,8 @@
     <li>07. Valid Parentheses</li>
     <li>08. Insert an element at its bottom</li>
     <li>09. Reverse stack using recursion</li>
+    <li>10. Sort a stack</li>
+    <li></li>
     <li></li>
 </ul>
 
