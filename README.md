@@ -84,6 +84,9 @@
     <li>04. Creating stack using linked list</li>
     <li>05. Two Stacks</li>
     <li>06. Reverse String</li>
+    <li>07. Valid Parentheses</li>
+    <li>08. Insert an element at its bottom</li>
+    <li></li>
     <li></li>
 </ul>
 
