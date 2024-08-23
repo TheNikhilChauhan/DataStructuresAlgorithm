@@ -88,7 +88,7 @@
     <li>08. Insert an element at its bottom</li>
     <li>09. Reverse stack using recursion</li>
     <li>10. Sort a stack</li>
-    <li></li>
+    <li>11. Redundant Brackets</li>
     <li></li>
 </ul>
 
