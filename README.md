@@ -102,5 +102,6 @@
     <li>06. Priority Queue</li>
     <li>07. Circular Queue</li>
     <li>08. Doubly Ended Queue (DEQue)</li>
+    <li>09. First negative in every window of size k</li>
     <li></li>
 </ul>
