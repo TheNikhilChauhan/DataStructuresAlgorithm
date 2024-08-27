@@ -89,7 +89,7 @@
     <li>09. Reverse stack using recursion</li>
     <li>10. Sort a stack</li>
     <li>11. Redundant Brackets</li>
-    <li></li>
+    <li>12. Celebrity Problem</li>
 </ul>
 
 <h2>Queues</h2>
@@ -100,5 +100,7 @@
     <li>04. Creating Queue using linked list for O(1) time complexity</li>
     <li>05. Creating Queue using stacks</li>
     <li>06. Priority Queue</li>
+    <li>07. Circular Queue</li>
+    <li>08. Doubly Ended Queue (DEQue)</li>
     <li></li>
 </ul>
