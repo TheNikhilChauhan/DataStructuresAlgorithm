@@ -105,3 +105,9 @@
     <li>09. First negative in every window of size k</li>
     <li></li>
 </ul>
+
+<h2>Hashmap</h2>
+<ul>
+    <li>01. Creating a hashmap</li>
+    <li></li>
+</ul>
