@@ -111,3 +111,9 @@
     <li>01. Creating a hashmap</li>
     <li></li>
 </ul>
+
+<h2>Divide and Conquer</h2>
+<ul>
+    <li>01. Find min and max with divide and conquer</li>
+    <li></li>
+</ul>
