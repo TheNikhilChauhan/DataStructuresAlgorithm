@@ -115,5 +115,6 @@
 <h2>Divide and Conquer</h2>
 <ul>
     <li>01. Find min and max with divide and conquer</li>
+    <li>02. Finding power of an element</li>
     <li></li>
 </ul>
