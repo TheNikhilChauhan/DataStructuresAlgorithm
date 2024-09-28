@@ -117,5 +117,7 @@
     <li>01. Find min and max with divide and conquer</li>
     <li>02. Finding power of an element</li>
     <li>03. Binary Search using Recursion</li>
+    <li>04. Merge Sort</li>
+    <li></li>
     <li></li>
 </ul>
