@@ -118,6 +118,6 @@
     <li>02. Finding power of an element</li>
     <li>03. Binary Search using Recursion</li>
     <li>04. Merge Sort</li>
-    <li></li>
+    <li>05. Binary Search without using Recursion</li>
     <li></li>
 </ul>
