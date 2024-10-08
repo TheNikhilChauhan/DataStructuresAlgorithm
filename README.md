@@ -120,5 +120,7 @@
     <li>04. Merge Sort</li>
     <li>05. Binary Search without using Recursion</li>
     <li>06. Quick Sort</li>
+    <li>07. Randomized Quick Sort</li>
+    <li>08. Selection sort</li>
     <li></li>
 </ul>
