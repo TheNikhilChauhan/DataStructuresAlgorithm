@@ -124,3 +124,10 @@
     <li>08. Selection sort</li>
     <li></li>
 </ul>
+
+<h2>Tree</h2>
+<ul>
+    <li>01. Binary Tree</li>
+    <li></li>
+    <li></li>
+</ul>
