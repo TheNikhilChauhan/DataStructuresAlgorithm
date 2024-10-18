@@ -122,6 +122,7 @@
     <li>06. Quick Sort</li>
     <li>07. Randomized Quick Sort</li>
     <li>08. Selection sort</li>
+    <li>09. Selection sort using recursion</li>
     <li></li>
 </ul>
 
