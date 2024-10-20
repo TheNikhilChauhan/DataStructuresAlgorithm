@@ -128,7 +128,9 @@
 
 <h2>Tree</h2>
 <ul>
-    <li>01. Binary Tree</li>
+    <li>01. Binary Tree In-order traversal using recursion</li>
+    <li>02. Pre Order Traversal using recursion</li>
+    <li>03. Post order traversal using recursion</li>
     <li></li>
     <li></li>
 </ul>
