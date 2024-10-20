@@ -131,6 +131,6 @@
     <li>01. Binary Tree In-order traversal using recursion</li>
     <li>02. Pre Order Traversal using recursion</li>
     <li>03. Post order traversal using recursion</li>
-    <li></li>
+    <li>04. In Order Traversal without recursion</li>
     <li></li>
 </ul>
