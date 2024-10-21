@@ -134,5 +134,6 @@
     <li>04. In-order Traversal without recursion</li>
     <li>05. Pre-order Traversal without recursion</li>
     <li>06. Post-order Traversal without recursion</li>
+    <li>07. Searching in BST</li>
     <li></li>
 </ul>
