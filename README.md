@@ -128,9 +128,11 @@
 
 <h2>Tree</h2>
 <ul>
-    <li>01. Binary Tree In-order traversal using recursion</li>
-    <li>02. Pre Order Traversal using recursion</li>
-    <li>03. Post order traversal using recursion</li>
-    <li>04. In Order Traversal without recursion</li>
+    <li>01. Binary Search Tree: In-order Traversal using recursion</li>
+    <li>02. Pre-order Traversal using recursion</li>
+    <li>03. Post-order Traversal using recursion</li>
+    <li>04. In-order Traversal without recursion</li>
+    <li>05. Pre-order Traversal without recursion</li>
+    <li>06. Post-order Traversal without recursion</li>
     <li></li>
 </ul>
